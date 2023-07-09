@@ -1,3 +1,23 @@
+
+a:link { 
+    color: #1585b1;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+a:visited {
+    color: #1585b1;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
 html
 {
     background-color: #FFFFFF;
@@ -5,7 +25,7 @@ html
 
 body
 {
-    font-family: "Merriweather", serif;
+    color: #555;
     margin: 0 auto;
     width: 75%;
 }
@@ -13,23 +33,23 @@ body
 
 
 h1 {
-    color: #444;
+    color: #555;
 }
 
 h2 {
-    color: #444;
+    color: #555;
     font-size: 46px;
 }
 
 .aboutContainer {
-
+    
     margin: 0 auto;
     margin-top: 50px;
     width: 50%;
 }
 
 .box {
-    background-color: #e5e5e5;
+    background-color: #e9e9e9;
     color: #bbb;
     height: 180px;
     margin: 6px;
@@ -49,7 +69,7 @@ h2 {
 .circle {
     height: 120px;
     width: 120px;
-    background-color: #e5e5e5;
+    background-color: #e9e9e9;
     border-radius: 50%;
     float: left;
     margin-bottom: 30px;
@@ -70,7 +90,7 @@ h2 {
 
 .footer
 {
-    background-color: #eee;
+    background-color: #e9e9e9;
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
     padding-bottom: 10px;
