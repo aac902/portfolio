@@ -15,12 +15,7 @@ h1 {
     color: #444;
 }
 
-header {
-    background-color: #fff;
-    padding: 20;
-    text-align: center;
-    width: 100%;
-}
+
 
 .content {
 
@@ -33,13 +28,20 @@ header {
     padding: 20px;
 }
 
-footer
+.footer
 {
     background-color: #eee;
     bottom: 0;
     left: 0;
     padding: 20px;
     position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+.header {
+    background-color: #fff;
+    padding: 20;
     text-align: center;
     width: 100%;
 }
