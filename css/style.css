@@ -1,4 +1,39 @@
 html
 {
-    background-color: #000000;
+    background-color: #FFFFFF;
+}
+
+body
+{
+    background-color: #f5f5f5;
+    margin: 0 auto;
+    width: 90%;
+}
+
+footer
+{
+    background-color: #eee;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+h1 {
+    color: #444;
+}
+
+header {
+    background-color: #fff;
+    padding: 20;
+    text-align: center;
+    width: 100%;
+}
+
+.content {
+    color: #222;
+    margin-top: 10px;
+    padding-top: 10px;
 }
