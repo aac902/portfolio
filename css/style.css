@@ -16,7 +16,22 @@ h1 {
     color: #444;
 }
 
+.box {
+    background-color: #e5e5e5;
+    color: #bbb;
+    float: left;
+    height: 100px;
+    margin: 6px;
+    width: 180px;
+}
 
+.boxContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 100%;
+}
 
 .content {
 
