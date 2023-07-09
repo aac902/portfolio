@@ -19,10 +19,9 @@ h1 {
 .box {
     background-color: #e5e5e5;
     color: #bbb;
-    float: left;
-    height: 100px;
+    height: 180px;
     margin: 6px;
-    width: 180px;
+    width: 33%;
 }
 
 .boxContainer {
@@ -50,7 +49,8 @@ h1 {
     background-color: #eee;
     border-bottom-left-radius: 4px;
     border-bottom-right-radius: 4px;
-    padding: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     text-align: center;
 }
 
