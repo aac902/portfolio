@@ -25,7 +25,7 @@ html
 
 body
 {
-    color: #555;
+    color: #666;
     margin: 0 auto;
     width: 75%;
 }
@@ -84,7 +84,7 @@ h2 {
     border-top-right-radius: 4px;
     display: block;
     overflow: auto;
-    color: #222;
+    color: #333;
     font-size:large;
     padding: 20px;
 }
