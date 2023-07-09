@@ -31,17 +31,12 @@ h1 {
 .footer
 {
     background-color: #eee;
-    bottom: 0;
-    left: 0;
     padding: 20px;
-    position: fixed;
     text-align: center;
-    width: 100%;
 }
 
 .header {
     background-color: #fff;
     padding: 20;
     text-align: center;
-    width: 100%;
 }
